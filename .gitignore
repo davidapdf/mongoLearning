@@ -2,3 +2,8 @@ mongoDB-env
 *.ipynb_checkpoints*
 env.sh
 conenectionString.txt
+MongoDBEnv
+playground-1.mongodb.js
+playground-2.mongodb.js
+zips.json
+primer-dataset.json
