@@ -1,0 +1,4 @@
+mongoDB-env
+*.ipynb_checkpoints*
+env.sh
+conenectionString.txt
